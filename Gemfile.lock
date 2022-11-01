@@ -223,17 +223,11 @@ GEM
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
     sqlite3 (1.5.0-x86_64-linux)
-    stimulus-rails (1.1.0)
-      railties (>= 6.0.0)
     stripe (7.1.0)
     strscan (3.0.4)
     thor (1.2.1)
     tilt (2.0.11)
     timeout (0.3.0)
-    turbo-rails (1.1.1)
-      actionpack (>= 6.0.0)
-      activejob (>= 6.0.0)
-      railties (>= 6.0.0)
     twitter-bootstrap-rails (5.0.0)
       actionpack (>= 5.0, < 8.0)
       execjs (~> 2.7)
@@ -280,9 +274,7 @@ DEPENDENCIES
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)
-  stimulus-rails
   stripe
-  turbo-rails
   twitter-bootstrap-rails
   tzinfo-data
   web-console
