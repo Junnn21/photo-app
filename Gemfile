@@ -8,7 +8,6 @@ gem "rails", "~> 7.0.3", ">= 7.0.3.1"
 gem "devise"
 gem "twitter-bootstrap-rails"
 gem 'devise-bootstrap-views'
-gem 'bootstrap', '~> 5.2.2'
 gem "jquery-rails"
 gem "stripe"
 
@@ -25,8 +24,10 @@ gem "puma", "~> 5.0"
 gem "importmap-rails"
 
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
+gem "turbo-rails"
 
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
+gem "stimulus-rails"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
