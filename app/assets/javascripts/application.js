@@ -6,4 +6,5 @@
 //= require rails-ujs
 //= require jquery
 //= require twitter/bootstrap
+//= require bootstrap
 //= require_tree .

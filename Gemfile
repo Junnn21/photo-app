@@ -8,6 +8,7 @@ gem "rails", "~> 7.0.3", ">= 7.0.3.1"
 gem "devise"
 gem "twitter-bootstrap-rails"
 gem 'devise-bootstrap-views'
+gem 'bootstrap', '~> 5.2.2'
 gem "jquery-rails"
 gem "stripe"
 
